@@ -10,3 +10,5 @@ Click [here](https://github.com/Willvinne/Wonda/releases) to download Wonda Stor
 Click [here](https://docs.google.com/document/d/1sT0sxXVAgzGNLubhyDXvpLMkxm5hu2UXVqiKu-582Yg/edit?tab=t.0) for privacy policy. (Turkish)
 
 (This project has been suspended)
+
+More information in [willvinne.com](https://willvinne.com)
